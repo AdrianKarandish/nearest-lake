@@ -1,0 +1,7 @@
+requests
+numpy
+shapely>=2.1
+pyproj
+rasterio
+folium
+pytest

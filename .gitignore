@@ -1,0 +1,8 @@
+# Local Python environment
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Downloaded map data and search results (rebuilt on every run)
+cache/
+output/
